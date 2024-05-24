@@ -900,6 +900,13 @@ h2 {
     cursor: pointer;
 }
 
+#review-btn{
+    border: 2px solid black;
+}
+
+#review-btn:hover{
+    background-color: rgb(38, 196, 20);
+}
 
 button[type="submit"] {
     display: block;
